@@ -22,7 +22,7 @@ palabra = 'Santiago'
 print(palabra)
 
 ## ¿Qué podemos concluir?
-## Las variables se quedan con su **última asignación de contenido &#x1F47D;.** 
+## Las variables se quedan con su última asignación de contenido 
 
 
 
