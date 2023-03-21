@@ -1,8 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # **Taller de Análisis automático de textos en Humanidades**
-# ### Javier Vera Zúñiga, jveraz@pucp.edu.pe
+# **Taller de Análisis automático de textos en Humanidades**
+## Javier Vera Zúñiga, jveraz@pucp.edu.pe
 
 # ## Link importante para elementos básicos de Python
 # 
